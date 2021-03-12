@@ -1,0 +1,7 @@
+{
+    "name": "response/rescountdown",
+    "description": "Countdown for the Express Delivery",
+    "type": "oxideshop-module",
+    "homepage": "https://www.response-gmbh.de",
+    "version": "1.0.0"
+}
